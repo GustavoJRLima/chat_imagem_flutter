@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "537878678420",
+    "firebase_url": "https://conexao-firebase-fd12d-default-rtdb.firebaseio.com",
+    "project_id": "conexao-firebase-fd12d",
+    "storage_bucket": "conexao-firebase-fd12d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537878678420:android:00680200806129d0f3dd81",
+        "android_client_info": {
+          "package_name": "com.example.flutter_quiz_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsNWRR2ssLIna3ia49LPMahouRrOOlj0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537878678420:android:cbbd8f3df177ad9cf3dd81",
+        "android_client_info": {
+          "package_name": "com.gustavojesus.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsNWRR2ssLIna3ia49LPMahouRrOOlj0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
